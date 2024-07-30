@@ -48,3 +48,12 @@ table {
     position: static;
     width: 80%;
   }
+
+  thead th {
+    background: #88CCF1;
+    color: #FFF;
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
